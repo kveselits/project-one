@@ -1,5 +1,7 @@
 body{
     background-color: burlywood;
+	margin:auto;
+	max-width: 500px;
 }
 header{
     background-color: green;
